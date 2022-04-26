@@ -1,0 +1,15 @@
+:root {
+    --bg-color: #ffffff;
+    --main-color: #212121;
+    --border-color: #ececec;
+    --hover-color: #2196f3;
+    --secondary-color: #757575;
+    --button-border-color: #f5f4fa;
+    --item-border-color: #eeeeee;
+    --alt-bg-color: #2f303a;
+    --bg-hero-color: rgba(47, 48, 58, 0.4);
+    --footer-link-color: rgba(255, 255, 255, 0.6);
+    --btn-hover-color: #188CE8;
+    --work-card-set-gap: 30px;
+    --social-icon-fill: #AFB1B8;
+}
